@@ -1,4 +1,5 @@
-# المسـرات النباتيـة
+<h1 align="center">🌱 المسـرات النباتيـة</h1>
+
 <br>
 
 project targets plant lovers and those interested in them. 
