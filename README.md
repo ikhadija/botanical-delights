@@ -1,4 +1,4 @@
-# botanical-delights
+# المسـرات النباتيـة
 <br>
 
 project targets plant lovers and those interested in them. 
